@@ -37,6 +37,7 @@ int main(){
 	
 	printf("You have choosen option %d\n",option);
 	
+	//-----------------------------------------------------------------//
 	while(option == 1){
 		
 		fflush(stdin);	//To get rid of line feed character in the buffer
